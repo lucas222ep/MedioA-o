@@ -1,0 +1,16 @@
+{
+  "name": "Para mi odontonena favorita",
+  "short_name": "Para ti",
+  "description": "Hecho con cariño, con paciencia y con muchas ganas de verte sonreír.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#25090f",
+  "theme_color": "#25090f",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
